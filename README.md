@@ -16,5 +16,5 @@ python manage.py migrate
 ```
 python manage.py runserver
 ```
-## Admin Username: shakil
-## Admin Password: 1234@1234
+## Admin Username: Salman
+## Admin Password: hiron@123
